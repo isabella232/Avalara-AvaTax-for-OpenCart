@@ -20,13 +20,16 @@ AvaTax for OpenCart connector is supported to <b>vqmod</b>.
   
 Installation guide can be accessed <a href="http://help.avalara.com/?cid=Intg-15" target="_blank">here</a>
   
-For user guide and exploring how this integration works, please visit <a href="https://help.avalara.com" target="_blank">Avalara Help Center</a>
 Learn about how to develop an Avalara AvaTax integration here: https://developer.avalara.com
 
 Learn about how to use Avalara AvaTax here: https://help.avalara.com
 </p>
 <h2>Folder Contents</h2>
-<p><ul><b>Admin</b> contains media files for test connection & loading image</ul>
-<ul><b>Documentation</b> contains release & user guides for this release</ul>
-<ul><b>System</b> contains PHP adapter, test connection, address validation & get tax service files</ul>
-<ul><b>vqmod</b> contains vqmod file for AvaTax connector, conflict check extension & pdf library to generate report from conflict checker page</ul></p>
+
+<b>Admin</b> contains media files for test connection & loading images
+
+<b>Documentation</b> contains release & user guides for this release
+
+<b>System</b> contains PHP adapter, test connection, address validation & get tax service files
+
+<b>vqmod</b> contains vqmod file for AvaTax connector, conflict check extension & pdf library to generate report from conflict checker page
