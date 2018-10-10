@@ -14,8 +14,8 @@ Avalara AvaTax for OpenCart Version 02.03.03.00 is compatible with OpenCart vers
 <ul>2.3.0.2</ul></p>
 
 <p>AvaTax for OpenCart connector is supported to <b>vqmod</b>.</p>
-<ul>Release notes can be accessed from<a href="http://help.avalara.com/?cid=Intg-OC-RG-1" target="_blank">here</a></ul>
-<ul>Installation guide can be accessed from<a href="http://help.avalara.com/?cid=Intg-15" target="_blank">here</a></ul>
+<ul>Release notes can be accessed from <a href="http://help.avalara.com/?cid=Intg-OC-RG-1" target="_blank">here</a></ul>
+<ul>Installation guide can be accessed from <a href="http://help.avalara.com/?cid=Intg-15" target="_blank">here</a></ul>
 <ul>For user guide and exploring how this integration works, please visit <a href="https://help.avalara.com" target="_blank">Avalara Help Center</a></ul>
 <u>Folder Contents:</u>
 <p><ul><b>Admin</b> consists media files for test connection & loading image</ul>
