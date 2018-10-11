@@ -26,6 +26,8 @@ Learn about how to use Avalara AvaTax here: https://help.avalara.com
 </p>
 <h2>Folder Contents</h2>
 
+Each version includes the following folders, with contents as described below.
+
 <b>Admin</b> contains media files for test connection & loading images
 
 <b>Documentation</b> contains release & user guides for this release
