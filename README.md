@@ -1,7 +1,7 @@
 # Avalara AvaTax for OpenCart
 The OpenCart connector for AvaTax is a module that integrates the OpenCart check-out process with the cloud computing sales tax service AvaTax, provided by Avalara, Inc. for the calculation, compliance and reporting of sales tax. OpenCart is an open source PHP-based online e-commerce solution.
 <h2>Compatibility</h2>
-Avalara AvaTax for OpenCart Version 02.02.03.00 is compatible with OpenCart versions:
+<b>Avalara AvaTax for OpenCart Version 02.02.03.00</b> is compatible with OpenCart versions:
 <p><ul>2.0.0.0</ul>
 <ul>2.0.1.0</ul>
 <ul>2.0.1.1</ul>
@@ -9,7 +9,7 @@ Avalara AvaTax for OpenCart Version 02.02.03.00 is compatible with OpenCart vers
 <ul>2.0.3.1</ul>
 <ul>2.1.0.1</ul>
 <ul>2.1.0.2</ul></p>
-Avalara AvaTax for OpenCart Version 02.03.03.00 is compatible with OpenCart versions:
+<b>Avalara AvaTax for OpenCart Version 02.03.03.00</b> is compatible with OpenCart versions:
 <p><ul>2.2.0.0</ul>
 <ul>2.3.0.2</ul></p>
 
